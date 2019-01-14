@@ -1,0 +1,11 @@
+﻿  main.cpp
+  GameWorld.cpp
+  GameController.cpp
+  StudentWorld.cpp
+  Actor.cpp
+c:\users\shab\documents\cs32\nachenblaster\nachenblaster\actor.cpp(259): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\shab\documents\cs32\nachenblaster\nachenblaster\actor.cpp(262): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\shab\documents\cs32\nachenblaster\nachenblaster\actor.cpp(264): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+  LINK : C:\Users\Shab\Documents\CS32\NachenBlaster\Debug\NachenBlaster.exe not found or not built by the last incremental link; performing full link
+  NachenBlaster.vcxproj -> C:\Users\Shab\Documents\CS32\NachenBlaster\Debug\NachenBlaster.exe
