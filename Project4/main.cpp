@@ -1,4 +1,4 @@
-//************haven't tested findCandidates
+
 #include <iostream>
 #include "provided.h"
 #include "MyHash.h"
